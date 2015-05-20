@@ -1,0 +1,1708 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language chinese-simplified
+\language_package default
+\inputencoding utf8-cjk
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\font_cjk gbsn
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen true
+\pdf_bookmarksopenlevel 3
+\pdf_breaklinks false
+\pdf_pdfborder false
+\pdf_colorlinks true
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Python环境下的机器学习资源
+\end_layout
+
+\begin_layout Part
+IPython Notebook机器学习教程
+\end_layout
+
+\begin_layout Itemize
+Python实现ID3算法
+\end_layout
+
+\begin_layout Standard
+详细实现步骤
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://yuenshome.sinaapp.com/2015/04/python%E5%AE%9E%E7%8E%B0id3%E7%AE%97%E6%B3%95
+/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+The Vector Space Model of text
+\end_layout
+
+\begin_layout Standard
+不采用NLTK和Scikits-learn库实现
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://stanford.edu/~rjweiss/public_html/IRiSS2013/text2/notebooks/tfidf.html
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+在Python中使用线性回归预测数据
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://python.jobbole.com/81215/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Use of machine learning for anomaly detection in netflow data
+\end_layout
+
+\begin_layout Standard
+网络数据的异常检测，
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://nbviewer.ipython.org/github/eraclitux/machine-learning-netflow/blob/master/
+machinelearning-netflow.ipynb
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+How To Implement Naive Bayes From Scratch in Python
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://machinelearningmastery.com/naive-bayes-classifier-scratch-python/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Topic Modelling
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://nbviewer.ipython.org/github/sgsinclair/alta/blob/master/ipynb/TopicModellin
+g.ipynb
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+MIT Linear Algebra (18.06) by Dr Juan H Klopper
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://www.juanklopper.com/opencourseware/mathematics-2/ipython-lecture-notes/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Introduction to Machine Learning
+\end_layout
+
+\begin_layout Standard
+The Dataset 
+\end_layout
+
+\begin_layout Standard
+Clustering with K-means 
+\end_layout
+
+\begin_layout Standard
+Clustering with other algorithms 
+\end_layout
+
+\begin_layout Standard
+Classification with k-Nearest Neighbors 
+\end_layout
+
+\begin_layout Standard
+Classification with other algorithms 
+\end_layout
+
+\begin_layout Standard
+Classification with Decision Trees 
+\end_layout
+
+\begin_layout Standard
+Classification with Random Forests 
+\end_layout
+
+\begin_layout Standard
+Dimensionality reduction 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://github.com/Prooffreader/intro_machine_learning
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Monte Carlo Methods, Stochastic Optimization by Verena Kaynig-Fittkau and
+ Pavlos Protopapas (AM207), 2015 
+\end_layout
+
+\begin_layout Standard
+Harvard course, 
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://am207.org/
+\end_layout
+
+\end_inset
+
+, 
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://github.com/diguabo/Monte-Carlo-Methods-Stochastic-Optimization-AM207-2015
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+The Art of Literary Text Analysis，McGill， winter of 2015 
+\end_layout
+
+\begin_layout Standard
+Searching for Meaning (searching variant word forms and word meanings) 
+\end_layout
+
+\begin_layout Standard
+Parts of Speech (analysing parts of speech (nouns, adjectives, verbs, etc.)
+ of documents 
+\end_layout
+
+\begin_layout Standard
+Repeating Phrases (analyzing repeating sequences of words)
+\end_layout
+
+\begin_layout Standard
+Sentiment Analysis (measuring opinion or mood of texts) 
+\end_layout
+
+\begin_layout Standard
+Topic Modelling (finding recurring groups of terms) 
+\end_layout
+
+\begin_layout Standard
+Document Similarity (measuring and visualizing distances between documents)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://nbviewer.ipython.org/github/sgsinclair/alta/blob/master/ipynb/ArtOfLiterary
+TextAnalysis.ipynb
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Probabilistic Programming & Bayesian Methods for Hackers
+\end_layout
+
+\begin_layout Standard
+a introduction to Bayesian inference from a computational/understanding-first,
+ and mathematics-second, point of view.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-
+for-Hackers/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part
+Python机器学习库
+\end_layout
+
+\begin_layout Itemize
+数据科学之5个最佳Python库，为初学者定制的教程
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://bi.dataguru.cn/article-6903-1.html
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Ultimate guide for Data Exploration in Python using NumPy, Matplotlib and
+ Pandas
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-s
+as-using-python-numpy-scipy-matplotlib-pandas/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Addfor trainings for Python, Numpy, Pandas and Machine Learning
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://github.com/addfor/tutorials
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+A collection of tutorials and examples for solving and understanding machine
+ learning and pattern classification tasks
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://github.com/rasbt/pattern_classification
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+pandas
+\end_layout
+
+\begin_layout Itemize
+Doing Data Analysis and Data Science in Python with pandas
+\end_layout
+
+\begin_layout Standard
+新用户的IPython Notebook教程；pandas cookbook (IPython Notebook)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://www.linkedin.com/pulse/doing-data-analysis-science-python-pandas-ali-syed
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Things in Pandas I Wish I'd Had Known Earlier
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/th
+ings_in_pandas.ipynb
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+14 Best Python Pandas Features
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://dataconomy.com/14-best-python-pandas-features
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Hacking Education with Python - Data Mining Coursera for Popular Courses
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://adilmoujahid.com/posts/2015/03/coursera-data-mining/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Scikit-learn
+\end_layout
+
+\begin_layout Itemize
+Learning scikit-learn: Machine Learning in Python
+\end_layout
+
+\begin_layout Standard
+IPython sources for each chapter of the book (by Raúl Garreta and Guillermo
+ Moncecchi)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://github.com/gmonce/scikit-learn-book/tree/master/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+PyCon 2015 Introduction to Scikit-Learn tutorial, presented by Jake VanderPlas
+\end_layout
+
+\begin_layout Standard
+1.
+ Preliminaries
+\end_layout
+
+\begin_layout Standard
+01-Preliminaries.ipynb
+\end_layout
+
+\begin_layout Standard
+2.
+ Introduction to Machine Learning with Scikit-Learn
+\end_layout
+
+\begin_layout Standard
+02.1-Machine-Learning-Intro.ipynb 02.2-Basic-Principles.ipynb
+\end_layout
+
+\begin_layout Standard
+3.
+ Supervised Learning In-Depth
+\end_layout
+
+\begin_layout Standard
+03.1-Classification-SVMs.ipynb 03.2-Regression-Forests.ipynb
+\end_layout
+
+\begin_layout Standard
+4.
+ Unsupervised Learning In-Depth
+\end_layout
+
+\begin_layout Standard
+04.1-Dimensionality-PCA.ipynb 04.2-Clustering-KMeans.ipynb 04.3-Density-GMM.ipynb
+\end_layout
+
+\begin_layout Standard
+5.
+ Model Validation In-Depth
+\end_layout
+
+\begin_layout Standard
+05-Validation.ipynb
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://github.com/jakevdp/sklearn_pycon2015
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Introduction to machine learning with scikit-learn
+\end_layout
+
+\begin_layout Standard
+简要介绍，包括视频，IPython notebooks, blog posts等
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://github.com/justmarkham/scikit-learn-videos/blob/master/README.md
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+PyMC
+\end_layout
+
+\begin_layout Standard
+PyMC is the tool of choice for Bayesians.
+ It includes Bayesian models, statistical distributions and diagnostic tools
+ for the convergence of models.
+ It includes some hierarchical models as well.
+ If you want to do Bayesian Analysis, you should check it out.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://pymc-devs.github.io/pymc/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Gensim
+\end_layout
+
+\begin_layout Standard
+Gensim is defined as “topic modeling for humans”.
+ As its homepage describes, its main focus is Latent Dirichlet Allocation
+ (LDA) and its variants.
+ Different from other packages, it has support for Natural Language Processing
+ which makes it easier to combine NLP pipeline with other machine learning
+ algorithms.
+ If your domain is in NLP and you want to do clustering and basic classification
+, you may want to check it out.
+ Recently, they introduced Recurrent Neural Network based text representation
+ called word2vec from Google to their API as well.
+ This library is written purely in Python.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://radimrehurek.com/gensim/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Shogun
+\end_layout
+
+\begin_layout Standard
+Shogun is a machine learning toolbox with a focus on Support Vector Machines
+ (SVM) that is written in C++.
+ It is actively developed and maintained, provides a Python interface and
+ the Python interface is mostly documented well.
+ However, we’ve found its API hard to use compared to Scikit-learn.
+ Also, it does not provide many diagnostics or evaluation algorithms out
+ of the box.
+ However, its speed is a great advantage.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://www.shogun-toolbox.org/page/home/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part
+Python的机器学习相关应用
+\end_layout
+
+\begin_layout Section
+网页爬虫
+\end_layout
+
+\begin_layout Itemize
+Python爬虫学习系列教程 by 崔庆才的博客
+\end_layout
+
+\begin_layout Description
+Python入门
+\end_layout
+
+\begin_layout Standard
+1.
+ Python爬虫入门一之综述
+\end_layout
+
+\begin_layout Standard
+2.
+ Python爬虫入门二之爬虫基础了解
+\end_layout
+
+\begin_layout Standard
+3.
+ Python爬虫入门三之Urllib库的基本使用
+\end_layout
+
+\begin_layout Standard
+4.
+ Python爬虫入门四之Urllib库的高级用法
+\end_layout
+
+\begin_layout Standard
+5.
+ Python爬虫入门五之URLError异常处理
+\end_layout
+
+\begin_layout Standard
+6.
+ Python爬虫入门六之Cookie的使用
+\end_layout
+
+\begin_layout Standard
+7.
+ Python爬虫入门七之正则表达式
+\end_layout
+
+\begin_layout Standard
+8.
+ Python爬虫入门八之Beautiful Soup的用法 
+\end_layout
+
+\begin_layout Description
+Python实战
+\end_layout
+
+\begin_layout Standard
+1.
+ Python爬虫实战一之爬取糗事百科段子
+\end_layout
+
+\begin_layout Standard
+2.
+ Python爬虫实战二之爬取百度贴吧帖子
+\end_layout
+
+\begin_layout Standard
+3.
+ Python爬虫实战三之计算大学本学期绩点
+\end_layout
+
+\begin_layout Standard
+4.
+ Python爬虫实战四之抓取淘宝MM照片
+\end_layout
+
+\begin_layout Standard
+5.
+ Python爬虫实战五之模拟登录淘宝并获取所有订单
+\end_layout
+
+\begin_layout Description
+Python进阶
+\end_layout
+
+\begin_layout Standard
+1.
+ Python爬虫进阶一之爬虫框架Scrapy安装配置
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://cuiqingcai.com/990.html
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Python写爬虫抓站的一些技巧
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://www.kuqin.com/shuoit/20150313/345239.html
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Python下用Scrapy和MongoDB构建爬虫系统（1）
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://www.cnblogs.com/rrxc/p/4478936.html
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Scrapy
+\end_layout
+
+\begin_layout Section
+文本分析
+\end_layout
+
+\begin_layout Itemize
+Python数据分析入门
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://python.jobbole.com/81133/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Analyzing Obesity in England With Python 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://realpython.com/blog/python/analyzing-obesity-in-england-with-python/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Data-processing and Machine Learning with Python
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://github.com/halflings/python-data-workshop/blob/master/README.md
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+数据清理
+\end_layout
+
+\begin_layout Itemize
+Beautiful Soup
+\end_layout
+
+\begin_layout Itemize
+Solving the Data Extraction Problem in 10 lines
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://rodricios.github.io/posts/solving_the_data_extraction_problem.html
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+特征选取
+\end_layout
+
+\begin_layout Itemize
+结合Scikit-learn介绍几种常用的特征选择方法
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://dataunion.org/14072.html
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+相似度度量
+\end_layout
+
+\begin_layout Itemize
+5种常用的相似度度量的python实现
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://dataaspirant.com/2015/04/11/five-most-popular-similarity-measures-implemen
+tation-in-python/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://github.com/saimadhu-polamuri/DataAspirant_codes/tree/master/Similarity_me
+asures
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+"People Who Like This Also Like ...
+ "
+\end_layout
+
+\begin_layout Standard
+使用pandas和scipy通过推荐问题的实现，讨论距离度量的差异
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://www.benfrederickson.com/distance-metrics/?hn=1
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+文本网络分析
+\end_layout
+
+\begin_layout Itemize
+文本网络分析工具包textplot
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://github.com/davidmcclure/textplot
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+话题模型
+\end_layout
+
+\begin_layout Itemize
+Topic Modeling in Multi-Aspect Reviews
+\end_layout
+
+\begin_layout Standard
+IPython Notebook文本详细介绍了方法、实现和结果，
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://nbviewer.ipython.org/gist/benjamincohen1/d7caaa3d07bbb89cd39a
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Web Scraping Indeed for Key Data Science Job Skills
+\end_layout
+
+\begin_layout Standard
+通过一个分析数据科学家工作技术的分析，详细展示了方法、实现和结果，
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://nbviewer.ipython.org/github/jmsteinw/Notebooks/blob/master/IndeedJobs.ipynb
+\end_layout
+
+\end_inset
+
+，
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://jessesw.com/Data-Science-Skills/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+NMF Topic Modeling with scikit-learn
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://nbviewer.ipython.org/url/derekgreene.com/notebooks/nmf_topic.ipynb#
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+情感分析
+\end_layout
+
+\begin_layout Itemize
+Modern Methods for Sentiment Analysis by Michael Czerny 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Sentiment Analysis on Twitter 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://github.com/mayank93/Twitter-Sentiment-Analysis
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Mining twitter Data with Python
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+行为分析
+\end_layout
+
+\begin_layout Itemize
+利用 Python、SciKit 和文本分类来实现行为分析
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://www.ibm.com/developerworks/cn/data/library/bd-natural-language/index.html?c
+e=ismxxxx&ct=swg&cmp=ibmsocial&cm=h&cr=crossbrand&ccy=cn
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+NLTK
+\end_layout
+
+\begin_layout Itemize
+Prototype ML/NLP Code Tutorial Series Lesson (ML/NLP入门教程Python版)
+\end_layout
+
+\begin_layout Standard
+原文：
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://www.thoughtly.co/blog/category/mlnlp-tutorial-series/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+翻译：
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://python.jobbole.com/81397/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+绘图
+\end_layout
+
+\begin_layout Itemize
+Python可视化工具概述
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://www.thebigdata.cn/JieJueFangAn/13773.html
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Matplotlib
+\end_layout
+
+\begin_layout Subsection
+Plotly
+\end_layout
+
+\begin_layout Itemize
+Plotly for IPython Notebooks
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://plot.ly/ipython-notebooks/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Generate HTML reports with Python, Pandas, and Plotly
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://moderndata.plot.ly/generate-html-reports-with-python-pandas-and-plotly/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+计算
+\end_layout
+
+\begin_layout Subsection
+Spark
+\end_layout
+
+\begin_layout Itemize
+Getting Started with Spark (in Python) by Benjamin Bengfort
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://districtdatalabs.silvrback.com/getting-started-with-spark-in-python
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Recommendation Engine built using Spark and Python
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://tech.marksblogg.com/recommendation-engine-spark-python.html
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+并行计算
+\end_layout
+
+\begin_layout Itemize
+Parallel Machine Learning with scikit-learn and IPython
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://github.com/ogrisel/parallel_ml_tutorial
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Numpy
+\end_layout
+
+\begin_layout Itemize
+用Python做科学计算
+\end_layout
+
+\begin_layout Standard
+包括Numpy, SciPy, matplotlib等包，
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://sebug.net/paper/books/scipydoc/index.html
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Getting the Best Performance out of NumPy
+\end_layout
+
+\begin_layout Standard
+Numpy的性能调优，
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://ipython-books.github.io/featured-01/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+SciPy
+\end_layout
+
+\begin_layout Part
+资源列表
+\end_layout
+
+\begin_layout Itemize
+Python网页爬虫&文本处理&科学计算&机器学习&数据挖掘兵器谱
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://www.kuqin.com/shuoit/20150414/345708.html
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Python机器学习库 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://qxde01.blog.163.com/blog/static/67335744201368101922991/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Python语言下的机器学习库
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://python.jobbole.com/81135/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+ZEEF网站上聚合的关于python的资源
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://python.zeef.com/alan.richmond
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+8步从Python白板到专家，从基础到深度学习 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://bi.dataguru.cn/article-6939-1.html
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+A gallery of interesting IPython Notebooks
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebook
+s#statistics-machine-learning-and-data-science
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Some IPython notebook Tutorials on nbviewer
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://nbviewer.ipython.org/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+国内的IPython notebook分享平台
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://datahub.top/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Full Stack Python
+\end_layout
+
+\begin_layout Standard
+涵盖Python开发的各个方面，包括语言、网页开发、网页程序、数据库、网页API、测试等。
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://www.fullstackpython.com/table-of-contents.html
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+零基础学python
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://github.com/qiwsir/StarterLearningPython/blob/master/index.md
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning,
+ Neural, NLP, ...
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://github.com/svaksha/pythonidae/blob/master/AI.md#classification-algorithms
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Theano-based Deep Learning library (convnets, recurrent neural networks,
+ and more)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://github.com/fchollet/keras
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Python Cheat Sheet
+\end_layout
+
+\begin_layout Standard
+Cheat sheet of Python.
+ Some basic concepts for Python programmer need to know.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://crazyguitar.github.io/cheatsheet/python-cs.html
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Python Tools for Machine Learning
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://www.cbinsights.com/blog/python-tools-machine-learning/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
