@@ -87,126 +87,6 @@ Python环境下的机器学习资源
 IPython Notebook机器学习教程
 \end_layout
 
-\begin_layout Itemize
-Python实现ID3算法
-\end_layout
-
-\begin_layout Standard
-详细实现步骤
-\end_layout
-
-\begin_layout Standard
-\begin_inset Flex URL
-status open
-
-\begin_layout Plain Layout
-
-http://yuenshome.sinaapp.com/2015/04/python%E5%AE%9E%E7%8E%B0id3%E7%AE%97%E6%B3%95
-/
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-The Vector Space Model of text
-\end_layout
-
-\begin_layout Standard
-不采用NLTK和Scikits-learn库实现
-\end_layout
-
-\begin_layout Standard
-\begin_inset Flex URL
-status open
-
-\begin_layout Plain Layout
-
-http://stanford.edu/~rjweiss/public_html/IRiSS2013/text2/notebooks/tfidf.html
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-在Python中使用线性回归预测数据
-\end_layout
-
-\begin_layout Standard
-\begin_inset Flex URL
-status open
-
-\begin_layout Plain Layout
-
-http://python.jobbole.com/81215/
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-Use of machine learning for anomaly detection in netflow data
-\end_layout
-
-\begin_layout Standard
-网络数据的异常检测，
-\begin_inset Flex URL
-status open
-
-\begin_layout Plain Layout
-
-http://nbviewer.ipython.org/github/eraclitux/machine-learning-netflow/blob/master/
-machinelearning-netflow.ipynb
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-How To Implement Naive Bayes From Scratch in Python
-\end_layout
-
-\begin_layout Standard
-\begin_inset Flex URL
-status open
-
-\begin_layout Plain Layout
-
-http://machinelearningmastery.com/naive-bayes-classifier-scratch-python/
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-Topic Modelling
-\end_layout
-
-\begin_layout Standard
-\begin_inset Flex URL
-status open
-
-\begin_layout Plain Layout
-
-http://nbviewer.ipython.org/github/sgsinclair/alta/blob/master/ipynb/TopicModellin
-g.ipynb
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Section
 MIT Linear Algebra (18.06) by Dr Juan H Klopper
 \end_layout
@@ -367,6 +247,70 @@ status open
 
 https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-
 for-Hackers/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Frequentism and Bayesianism
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-
+intro/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://jakevdp.github.io/blog/2014/06/06/frequentism-and-bayesianism-2-when-result
+s-differ/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://jakevdp.github.io/blog/2014/06/12/frequentism-and-bayesianism-3-confidence-
+credibility/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in
+-python/
 \end_layout
 
 \end_inset
@@ -733,6 +677,167 @@ http://www.shogun-toolbox.org/page/home/
 
 \end_layout
 
+\begin_layout Section
+算法实现
+\end_layout
+
+\begin_layout Itemize
+Python实现ID3算法
+\end_layout
+
+\begin_layout Standard
+详细实现步骤
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://yuenshome.sinaapp.com/2015/04/python%E5%AE%9E%E7%8E%B0id3%E7%AE%97%E6%B3%95
+/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+The Vector Space Model of text
+\end_layout
+
+\begin_layout Standard
+不采用NLTK和Scikits-learn库实现
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://stanford.edu/~rjweiss/public_html/IRiSS2013/text2/notebooks/tfidf.html
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+在Python中使用线性回归预测数据
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://python.jobbole.com/81215/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Use of machine learning for anomaly detection in netflow data
+\end_layout
+
+\begin_layout Standard
+网络数据的异常检测，
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://nbviewer.ipython.org/github/eraclitux/machine-learning-netflow/blob/master/
+machinelearning-netflow.ipynb
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+How To Implement Naive Bayes From Scratch in Python
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://machinelearningmastery.com/naive-bayes-classifier-scratch-python/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Topic Modelling
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://nbviewer.ipython.org/github/sgsinclair/alta/blob/master/ipynb/TopicModellin
+g.ipynb
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Let's Write: The Logistical Regression Classifier
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://nbviewer.ipython.org/github/mfournierca/logistic-regression/blob/master/log
+istic-regression.ipynb
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+简单易学的机器学习算法——谱聚类(Spectal Clustering) 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://blog.csdn.net/google19890102/article/details/45697695
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Part
 Python的机器学习相关应用
 \end_layout
@@ -745,7 +850,7 @@ Python的机器学习相关应用
 Python爬虫学习系列教程 by 崔庆才的博客
 \end_layout
 
-\begin_layout Description
+\begin_layout Standard
 Python入门
 \end_layout
 
@@ -789,7 +894,7 @@ Python入门
  Python爬虫入门八之Beautiful Soup的用法 
 \end_layout
 
-\begin_layout Description
+\begin_layout Standard
 Python实战
 \end_layout
 
@@ -818,7 +923,7 @@ Python实战
  Python爬虫实战五之模拟登录淘宝并获取所有订单
 \end_layout
 
-\begin_layout Description
+\begin_layout Standard
 Python进阶
 \end_layout
 
@@ -860,7 +965,25 @@ http://www.kuqin.com/shuoit/20150313/345239.html
 \end_layout
 
 \begin_layout Itemize
-Python下用Scrapy和MongoDB构建爬虫系统（1）
+python实现带验证码网站的自动登陆
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://blog.sina.com.cn/s/blog_74a7e56e010177l8.html
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Python下用Scrapy和MongoDB构建爬虫系统(1)
 \end_layout
 
 \begin_layout Standard
@@ -870,6 +993,112 @@ status open
 \begin_layout Plain Layout
 
 http://www.cnblogs.com/rrxc/p/4478936.html
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Scrapy+Flask+Mongodb+Swift开发全攻略(1)(2)(3)(4)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://www.cocoachina.com/ios/20150504/11719.html
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://www.cocoachina.com/ios/20150520/11866.html
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://www.jianshu.com/p/1f24a39f3c4f
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://www.jianshu.com/p/9ca7becdbf4a
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://www.jianshu.com/p/04055e814f88
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://www.jianshu.com/p/1a1ebff0f7bd
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Newspaper3k: Article scraping & curation
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://github.com/codelucas/newspaper
 \end_layout
 
 \end_inset
@@ -1370,6 +1599,24 @@ http://tech.marksblogg.com/recommendation-engine-spark-python.html
 
 \end_layout
 
+\begin_layout Itemize
+Classifying Customers with MLLib and Spark
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://www.mapr.com/blog/classifying-customers-mllib-and-spark#.VV1Lq7zLRyS
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection
 并行计算
 \end_layout
@@ -1427,6 +1674,61 @@ status open
 \begin_layout Plain Layout
 
 http://ipython-books.github.io/featured-01/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+《Python科学计算》作者：张若愚
+\end_layout
+
+\begin_layout Standard
+书籍，介绍见：
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://www.fxysw.com/thread-4626-1-1.html
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Scientific computing projects
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://jrjohansson.github.io/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Lectures on scientific computing with Python
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://github.com/jrjohansson/scientific-python-lectures
 \end_layout
 
 \end_inset
@@ -1617,6 +1919,75 @@ status open
 \begin_layout Plain Layout
 
 https://github.com/qiwsir/StarterLearningPython/blob/master/index.md
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+慕课网（http://www.imooc.com）的Python课程
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://www.imooc.com/view/177?from=itblog
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://www.imooc.com/view/317?from=itblog
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+A Crash Course in Python for Scientists (IPython Notebook教程)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://nbviewer.ipython.org/gist/rpmuller/5920182#
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+The Traveling Salesperson Problem(IPython Notebook教程)
+\end_layout
+
+\begin_layout Standard
+非常详尽的教程。
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://nbviewer.ipython.org/url/norvig.com/ipython/TSPv3.ipynb
 \end_layout
 
 \end_inset
